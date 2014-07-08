@@ -1,4 +1,4 @@
-grooveshark-machine
+Grooveshark Machine
 ===================
 
 Grooveshark Machine lets you control a (possibly headless) device to play a Grooveshark Playlist, from another device such as a phone.
