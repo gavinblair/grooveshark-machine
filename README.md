@@ -28,7 +28,7 @@ Setup
 
 ![Controller](screen1.png)
 
-* You may put in a Grooveshark Playlist ID and press Play to start playing. Stop stops the play.
+* You may put in a Grooveshark Playlist ID and press `Play` to start playing. `Stop` stops the play.
 
 Grooveshark Playlist ID???
 ---
