@@ -22,9 +22,11 @@ Setup
 	$ chmod 777 id.txt
 	```
 
-* Point your Machine to http://your-server/machine.php. You may now disconnect any display devices, and turn up the speakers.
+* Point your Machine to `http://your-server/machine.php`. You may now disconnect any display devices, and turn up the speakers.
 
-* On your Controller device, visit http://your-server/index.php
+* On your Controller device, visit `http://your-server/index.php`
+
+![Controller](screen1.png)
 
 * You may put in a Grooveshark Playlist ID and press Play to start playing. Stop stops the play.
 
